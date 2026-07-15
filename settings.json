@@ -30,7 +30,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 10,
       "messages": [
         "HEY , owner greetings",
         "prime bhikmanga!",
@@ -74,8 +74,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/Phufx7MDK",
     "events": {
       "connect": true,
       "disconnect": true,
