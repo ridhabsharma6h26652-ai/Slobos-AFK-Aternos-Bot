@@ -20,7 +20,7 @@
   },
   bot._client.on('resource_pack_send', () => {
   bot.acceptResourcePack();
-});
+},
   "utils": {
     "auto-auth": {
       "enabled": true,
