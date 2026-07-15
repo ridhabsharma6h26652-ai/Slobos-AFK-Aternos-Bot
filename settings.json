@@ -85,4 +85,7 @@
   "chat": {
     "respond": true
   }
-}
+},
+bot._client.on('resource_pack_send', () => {
+  bot.acceptResourcePack();
+});
