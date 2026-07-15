@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Sammy ki chut",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "sammy ki chut",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sammy ridhab ka bacha hai",
+        "kanubhai520 is the god!",
+        "prime ki mkc!"
       ]
     },
     "chat-log": true,
