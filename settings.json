@@ -5,6 +5,10 @@
     "password": "",
     "type": "offline"
   },
+  bot.on('resourcePack', () => {
+  console.log('Accepting resource pack...');
+  bot.acceptResourcePack();
+},
   "server": {
     "ip": "Empires-Gen-2.aternos.me",
     "port":43171,
@@ -84,7 +88,4 @@
   "chat": {
     "respond": true
   }
-},
-bot.on('resourcePack', () => {
-  bot.acceptResourcePack();
-});
+}
