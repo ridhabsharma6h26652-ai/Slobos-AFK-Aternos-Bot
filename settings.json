@@ -30,17 +30,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 30,
       "messages": [
-        "HEY , owner greetings",
-        "prime bhikmanga!",
-        "prime ki mkc!"
+        "HEY , LLAMA greetings",
+        "Bosda sammy",
+        "prime ki gand jali by kanubhai520!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 20,
-    "max-reconnect-delay": 40
+    "max-reconnect-delay": 100
   },
   "movement": {
     "enabled": true,
@@ -74,7 +74,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.gg/Phufx7MDK",
     "events": {
       "connect": true,
